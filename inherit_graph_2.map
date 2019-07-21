@@ -1,3 +1,12 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$classns3_1_1BgpNs3Clock.html" title="The clock interface. See libbgp document. " alt="" coords="109,5,247,32"/>
+<area shape="rect" id="node1" href="/home/nat/ns3/ns3-bake/source/ns-3.29/src/bgp/libbgp.tag$classlibbgp_1_1BgpLogHandler.html" title="libbgp::BgpLogHandler" alt="" coords="19,107,185,133"/>
+<area shape="rect" id="node2" href="$classns3_1_1BgpLog.html" title="The libbgp log forwarder class. " alt="" coords="269,107,391,133"/>
+<area shape="rect" id="node4" href="$classns3_1_1BgpNs3SocketOut.html" title="Simple container class for FSM to send data to peer. " alt="" coords="461,5,632,32"/>
+<area shape="rect" id="node7" href="$classns3_1_1BgpNs3Fsm.html" title="ns3 smart pointer wrapper for libbgp BGP FSM. " alt="" coords="481,208,612,235"/>
+<area shape="rect" id="node8" href="$classns3_1_1BgpNs3SocketIn.html" title="Simple container class for FSM to receive data from peer. " alt="" coords="467,56,626,83"/>
+<area shape="rect" id="node9" href="$classns3_1_1Peer.html" title="Peer configuration class. " alt="" coords="505,107,588,133"/>
+<area shape="rect" id="node10" href="$classns3_1_1Session.html" title="Session information class. " alt="" coords="495,157,598,184"/>
+<area shape="rect" id="node3" href="/home/nat/ns3/ns3-bake/source/ns-3.29/src/bgp/libbgp.tag$classlibbgp_1_1BgpOutHandler.html" title="libbgp::BgpOutHandler" alt="" coords="247,5,413,32"/>
+<area shape="rect" id="node5" href="/home/nat/ns3/ns3-bake/source/ns-3.29/src/bgp/libbgp.tag$classlibbgp_1_1RouteEventReceiver.html" title="libbgp::RouteEventReceiver" alt="" coords="5,208,199,235"/>
+<area shape="rect" id="node6" href="/home/nat/ns3/ns3-bake/source/ns-3.29/src/bgp/libbgp.tag$classlibbgp_1_1BgpFsm.html" title="libbgp::BgpFsm" alt="" coords="270,208,390,235"/>
 </map>

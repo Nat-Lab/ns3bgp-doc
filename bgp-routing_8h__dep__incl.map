@@ -1,5 +1,5 @@
 <map id="model/bgp&#45;routing.h" name="model/bgp&#45;routing.h">
-<area shape="rect" id="node2" href="$bgp_8h.html" title="BGP module for ns3. " alt="" coords="51,80,153,107"/>
+<area shape="rect" id="node2" href="$bgp_8h_source.html" title="model/bgp.h" alt="" coords="51,80,153,107"/>
 <area shape="rect" id="node6" href="$bgp-routing_8cc.html" title="ns3 BGP module: routing protocol (Ipv4RoutingProtocol) " alt="" coords="177,80,336,107"/>
 <area shape="rect" id="node3" href="$bgp-ns3-socket-in_8h.html" title="Simple container class for FSM to receive data from peer. " alt="" coords="5,155,199,181"/>
 <area shape="rect" id="node5" href="$bgp_8cc.html" title="BGP module for ns3. " alt="" coords="223,155,331,181"/>

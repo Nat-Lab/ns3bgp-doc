@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$classns3_1_1Bgp.html" title="The Bgp Application. " alt="" coords="145,5,224,32"/>
+<area shape="rect" id="node1" href="/home/nat/ns3/ns3-bake/source/ns-3.29/src/bgp/libbgp.tag$classlibbgp_1_1Clock.html" title="libbgp::Clock" alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$classns3_1_1BgpNs3Clock.html" title="The clock interface. See libbgp document. " alt="" coords="156,5,293,32"/>
 </map>

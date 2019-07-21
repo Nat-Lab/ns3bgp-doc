@@ -1,6 +1,6 @@
 <map id="model/bgp&#45;ns3&#45;clock.h" name="model/bgp&#45;ns3&#45;clock.h">
 <area shape="rect" id="node2" href="$bgp-ns3-clock_8cc.html" title="libbgp Clock interface for ns3. " alt="" coords="5,80,179,107"/>
-<area shape="rect" id="node3" href="$bgp_8h.html" title="BGP module for ns3. " alt="" coords="203,80,306,107"/>
+<area shape="rect" id="node3" href="$bgp_8h_source.html" title="model/bgp.h" alt="" coords="203,80,306,107"/>
 <area shape="rect" id="node4" href="$bgp-ns3-socket-in_8h.html" title="Simple container class for FSM to receive data from peer. " alt="" coords="158,155,351,181"/>
 <area shape="rect" id="node6" href="$bgp_8cc.html" title="BGP module for ns3. " alt="" coords="375,155,483,181"/>
 <area shape="rect" id="node5" href="$bgp-ns3-socket-in_8cc.html" title="Simple container class for FSM to receive data from peer. " alt="" coords="172,229,337,271"/>

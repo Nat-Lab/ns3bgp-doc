@@ -1,5 +1,5 @@
 <map id="model/bgp&#45;ns3&#45;socket&#45;out.h" name="model/bgp&#45;ns3&#45;socket&#45;out.h">
-<area shape="rect" id="node2" href="$bgp_8h.html" title="BGP module for ns3. " alt="" coords="51,102,153,129"/>
+<area shape="rect" id="node2" href="$bgp_8h_source.html" title="model/bgp.h" alt="" coords="51,102,153,129"/>
 <area shape="rect" id="node6" href="$bgp-ns3-socket-out_8cc.html" title="Simple container class for FSM to send data to peer. " alt="" coords="178,95,343,136"/>
 <area shape="rect" id="node3" href="$bgp-ns3-socket-in_8h.html" title="Simple container class for FSM to receive data from peer. " alt="" coords="5,184,199,211"/>
 <area shape="rect" id="node5" href="$bgp_8cc.html" title="BGP module for ns3. " alt="" coords="223,184,331,211"/>

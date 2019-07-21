@@ -1,7 +1,10 @@
 var searchData=
 [
-  ['bgplog',['BgpLog',['../classns3_1_1BgpLog.html#a07c2295e38d1f3c421c311a1756f1d0f',1,'ns3::BgpLog']]],
-  ['bgpns3fsm',['BgpNs3Fsm',['../classns3_1_1BgpNs3Fsm.html#a50c5b7b0418b4a0d0a100922b1eac14b',1,'ns3::BgpNs3Fsm']]],
-  ['bgpns3socketin',['BgpNs3SocketIn',['../classns3_1_1BgpNs3SocketIn.html#a4a38116d4c58909d94bccf5d80c78f8b',1,'ns3::BgpNs3SocketIn']]],
-  ['bgpns3socketout',['BgpNs3SocketOut',['../classns3_1_1BgpNs3SocketOut.html#aa6a1a2644d196926d76f469585f3d7ae',1,'ns3::BgpNs3SocketOut']]]
+  ['addattrib',['addAttrib',['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpUpdateMessage.html#a36a81a80086bc37a17b5753305f5c19a',1,'libbgp::BgpUpdateMessage']]],
+  ['addnlri',['addNlri',['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpUpdateMessage.html#a0a114edba4964ea26bd2286b44c99070',1,'libbgp::BgpUpdateMessage::addNlri(uint32_t prefix, uint8_t length)'],['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpUpdateMessage.html#a26deec4c54b2b600b1e414645ea319dd',1,'libbgp::BgpUpdateMessage::addNlri(const Route &amp;route)']]],
+  ['addpeer',['AddPeer',['../classns3_1_1Bgp.html#a6179bc88ed32e78716f027551cdd8b26',1,'ns3::Bgp']]],
+  ['addroute',['AddRoute',['../classns3_1_1Bgp.html#a278f258bdd0e9ece2fba54896ab7ae11',1,'ns3::Bgp::AddRoute(libbgp::Route route, uint32_t nexthop)'],['../classns3_1_1Bgp.html#a4edaed4b3df8fd6452a1c7c9c84b89a7',1,'ns3::Bgp::AddRoute(uint32_t prefix, uint8_t mask, uint32_t nexthop)'],['../classns3_1_1Bgp.html#a2d56885ed2cdd27697637206fe3d56b3',1,'ns3::Bgp::AddRoute(const Ipv4Address &amp;prefix, const Ipv4Mask &amp;mask, const Ipv4Address &amp;nexthop)']]],
+  ['addwithdrawn',['addWithdrawn',['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpUpdateMessage.html#a0209423df4f2f04484561addeddf49e7',1,'libbgp::BgpUpdateMessage::addWithdrawn(uint32_t prefix, uint8_t length)'],['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpUpdateMessage.html#aaf8cae16172cad7440f9a3c815ebf54c',1,'libbgp::BgpUpdateMessage::addWithdrawn(const Route &amp;route)']]],
+  ['append',['append',['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpFilterRules.html#a66f03e71e145a6d564450403365e3711',1,'libbgp::BgpFilterRules']]],
+  ['apply',['apply',['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpFilterRule.html#a5d08edc8a58347abb543a5f905228b8a',1,'libbgp::BgpFilterRule::apply(uint32_t prefix, uint8_t mask) const'],['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpFilterRule.html#aa7fd706d4e0e3f9cc535121c82dcb21c',1,'libbgp::BgpFilterRule::apply(const Route &amp;prefix) const'],['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpFilterRules.html#a3fe1b4b6a822f6db981d5cd880614bfb',1,'libbgp::BgpFilterRules::apply(uint32_t prefix, uint32_t mask) const'],['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpFilterRules.html#a2c876e0f333a447406e386634f1aa687',1,'libbgp::BgpFilterRules::apply(const Route &amp;prefix) const']]]
 ];

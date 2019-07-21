@@ -1,10 +1,9 @@
 var searchData=
 [
-  ['setbgpid',['SetBgpId',['../classns3_1_1Bgp.html#a2b708c4f212c6f36dd0a20d4f3f32215',1,'ns3::Bgp']]],
-  ['setclockinterval',['SetClockInterval',['../classns3_1_1Bgp.html#a9995883b8539c139909fe7ea5733b5f0',1,'ns3::Bgp']]],
-  ['setholdtimer',['SetHoldTimer',['../classns3_1_1Bgp.html#a0cea8a970b85d7d0791b7e3703800f6e',1,'ns3::Bgp']]],
-  ['setlibbgploglevel',['SetLibbgpLogLevel',['../classns3_1_1Bgp.html#a591d0964c2b827e67ae40b05de030351',1,'ns3::Bgp']]],
-  ['setowner',['SetOwner',['../classns3_1_1BgpLog.html#a0dd5588aab860bfde4a92e05140a96f9',1,'ns3::BgpLog']]],
-  ['setrib',['SetRib',['../classns3_1_1BgpRouting.html#a4822cb3d84d3eba2d9e6ae1ad2196882',1,'ns3::BgpRouting']]],
-  ['setstatechangecallback',['setStateChangeCallback',['../classns3_1_1BgpNs3SocketOut.html#a229bf17c75450199d8890dc534b2203e',1,'ns3::BgpNs3SocketOut']]]
+  ['handleout',['handleOut',['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpOutHandler.html#a89f6bc44f508693a0c1923e558a07ad8',1,'libbgp::BgpOutHandler::handleOut()'],['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1FdOutHandler.html#a688e3be3b47004efb4116e5ca9380776',1,'libbgp::FdOutHandler::handleOut()'],['../classns3_1_1BgpNs3SocketOut.html#a57d2752b67a07d12cf5e0ae18d6eb6b2',1,'ns3::BgpNs3SocketOut::handleOut()']]],
+  ['handleread',['HandleRead',['../classns3_1_1BgpNs3SocketIn.html#a461a589897640e31da38a572891987d6',1,'ns3::BgpNs3SocketIn']]],
+  ['handlerouteevent',['handleRouteEvent',['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1RouteEventReceiver.html#acb49d33f47dcc9a15d89b50aad6cf652',1,'libbgp::RouteEventReceiver']]],
+  ['hasattrib',['hasAttrib',['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpUpdateMessage.html#a3a9eebac8bd810bcd0b4b9b57ecbd7cd',1,'libbgp::BgpUpdateMessage']]],
+  ['hascapability',['hasCapability',['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpOpenMessage.html#a0d46703d6aa20bb6a7c031458e74f364',1,'libbgp::BgpOpenMessage']]],
+  ['haserror',['hasError',['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1Serializable.html#a71cbd82595e9145b0f7bd0664d190e87',1,'libbgp::Serializable']]]
 ];

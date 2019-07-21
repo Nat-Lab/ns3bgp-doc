@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['ingress_5frules',['ingress_rules',['../classns3_1_1Peer.html#aecc1e8146fd441f31f4bcd35dc7ab4f5',1,'ns3::Peer']]]
+  ['clock',['clock',['https://lab.nat.moe/libbgp-doc/structlibbgp_1_1BgpConfig.html#a85433acb7a5ca8620fa4cf79f5d50798',1,'libbgp::BgpConfig']]],
+  ['community',['community',['https://lab.nat.moe/libbgp-doc/classlibbgp_1_1BgpPathAttribCommunity.html#a191511942337973ff77d4f1fa5632d17',1,'libbgp::BgpPathAttribCommunity']]]
 ];

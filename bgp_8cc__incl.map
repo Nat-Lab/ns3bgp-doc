@@ -1,5 +1,5 @@
 <map id="model/bgp.cc" name="model/bgp.cc">
-<area shape="rect" id="node3" href="$bgp_8h.html" title="BGP module for ns3. " alt="" coords="869,80,928,107"/>
+<area shape="rect" id="node3" href="$bgp_8h_source.html" title="bgp.h" alt="" coords="869,80,928,107"/>
 <area shape="rect" id="node5" href="$bgp-ns3-fsm_8h.html" title="ns3 smart pointer wrapper for libbgp BGP FSM. " alt="" coords="269,155,384,181"/>
 <area shape="rect" id="node7" href="$bgp-log_8h.html" title="libbgp log forwarder. " alt="" coords="52,229,135,256"/>
 <area shape="rect" id="node10" href="$bgp-ns3-clock_8h.html" title="libbgp Clock interface for ns3. " alt="" coords="997,155,1120,181"/>
