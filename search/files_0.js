@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['bgp_2dafi_2eh',['bgp-afi.h',['https://lab.nat.moe/libbgp-doc/bgp-afi_8h.html',1,'']]],
   ['bgp_2dbad_2dmessage_2ecc',['bgp-bad-message.cc',['https://lab.nat.moe/libbgp-doc/bgp-bad-message_8cc.html',1,'']]],
   ['bgp_2dbad_2dmessage_2eh',['bgp-bad-message.h',['https://lab.nat.moe/libbgp-doc/bgp-bad-message_8h.html',1,'']]],
   ['bgp_2dcapability_2ecc',['bgp-capability.cc',['https://lab.nat.moe/libbgp-doc/bgp-capability_8cc.html',1,'']]],
@@ -7,8 +8,6 @@ var searchData=
   ['bgp_2dconfig_2eh',['bgp-config.h',['https://lab.nat.moe/libbgp-doc/bgp-config_8h.html',1,'']]],
   ['bgp_2derrcode_2ecc',['bgp-errcode.cc',['https://lab.nat.moe/libbgp-doc/bgp-errcode_8cc.html',1,'']]],
   ['bgp_2derrcode_2eh',['bgp-errcode.h',['https://lab.nat.moe/libbgp-doc/bgp-errcode_8h.html',1,'']]],
-  ['bgp_2derror_2ecc',['bgp-error.cc',['https://lab.nat.moe/libbgp-doc/bgp-error_8cc.html',1,'']]],
-  ['bgp_2derror_2eh',['bgp-error.h',['https://lab.nat.moe/libbgp-doc/bgp-error_8h.html',1,'']]],
   ['bgp_2dfilter_2ecc',['bgp-filter.cc',['https://lab.nat.moe/libbgp-doc/bgp-filter_8cc.html',1,'']]],
   ['bgp_2dfilter_2eh',['bgp-filter.h',['https://lab.nat.moe/libbgp-doc/bgp-filter_8h.html',1,'']]],
   ['bgp_2dfsm_2ecc',['bgp-fsm.cc',['https://lab.nat.moe/libbgp-doc/bgp-fsm_8cc.html',1,'']]],
@@ -37,8 +36,10 @@ var searchData=
   ['bgp_2dpacket_2eh',['bgp-packet.h',['https://lab.nat.moe/libbgp-doc/bgp-packet_8h.html',1,'']]],
   ['bgp_2dpath_2dattrib_2ecc',['bgp-path-attrib.cc',['https://lab.nat.moe/libbgp-doc/bgp-path-attrib_8cc.html',1,'']]],
   ['bgp_2dpath_2dattrib_2eh',['bgp-path-attrib.h',['https://lab.nat.moe/libbgp-doc/bgp-path-attrib_8h.html',1,'']]],
-  ['bgp_2drib_2ecc',['bgp-rib.cc',['https://lab.nat.moe/libbgp-doc/bgp-rib_8cc.html',1,'']]],
-  ['bgp_2drib_2eh',['bgp-rib.h',['https://lab.nat.moe/libbgp-doc/bgp-rib_8h.html',1,'']]],
+  ['bgp_2drib4_2ecc',['bgp-rib4.cc',['https://lab.nat.moe/libbgp-doc/bgp-rib4_8cc.html',1,'']]],
+  ['bgp_2drib4_2eh',['bgp-rib4.h',['https://lab.nat.moe/libbgp-doc/bgp-rib4_8h.html',1,'']]],
+  ['bgp_2drib6_2ecc',['bgp-rib6.cc',['https://lab.nat.moe/libbgp-doc/bgp-rib6_8cc.html',1,'']]],
+  ['bgp_2drib6_2eh',['bgp-rib6.h',['https://lab.nat.moe/libbgp-doc/bgp-rib6_8h.html',1,'']]],
   ['bgp_2drouting_2ecc',['bgp-routing.cc',['../bgp-routing_8cc.html',1,'']]],
   ['bgp_2drouting_2eh',['bgp-routing.h',['../bgp-routing_8h.html',1,'']]],
   ['bgp_2dsink_2ecc',['bgp-sink.cc',['https://lab.nat.moe/libbgp-doc/bgp-sink_8cc.html',1,'']]],
