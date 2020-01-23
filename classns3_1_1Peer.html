@@ -114,16 +114,40 @@ Ipv4Address&#160;</td><td class="memItemRight" valign="bottom"><a class="el" hre
 <tr class="separator:a00b0b0cefce9aa3be194f523a0aa4882"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a477ad64dea110fa50d7e1445297b6347"><td class="memItemLeft" align="right" valign="top"><a id="a477ad64dea110fa50d7e1445297b6347"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classns3_1_1Peer.html#a477ad64dea110fa50d7e1445297b6347">passive</a></td></tr>
-<tr class="memdesc:a477ad64dea110fa50d7e1445297b6347"><td class="mdescLeft">&#160;</td><td class="mdescRight">Passive peering (don't send OPEN) <br /></td></tr>
+<tr class="memdesc:a477ad64dea110fa50d7e1445297b6347"><td class="mdescLeft">&#160;</td><td class="mdescRight">passive peering (don't send OPEN) <br /></td></tr>
 <tr class="separator:a477ad64dea110fa50d7e1445297b6347"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acbbcc046b640405bf40dba80a2727f36"><td class="memItemLeft" align="right" valign="top"><a id="acbbcc046b640405bf40dba80a2727f36"></a>
+int8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classns3_1_1Peer.html#acbbcc046b640405bf40dba80a2727f36">allow_local_as</a></td></tr>
+<tr class="memdesc:acbbcc046b640405bf40dba80a2727f36"><td class="mdescLeft">&#160;</td><td class="mdescRight">Allow N local ASN in AS_PATH. <br /></td></tr>
+<tr class="separator:acbbcc046b640405bf40dba80a2727f36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af0af697c20ca0b4a604c62f53fb6cea6"><td class="memItemLeft" align="right" valign="top"><a id="af0af697c20ca0b4a604c62f53fb6cea6"></a>
+int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classns3_1_1Peer.html#af0af697c20ca0b4a604c62f53fb6cea6">weight</a></td></tr>
+<tr class="memdesc:af0af697c20ca0b4a604c62f53fb6cea6"><td class="mdescLeft">&#160;</td><td class="mdescRight">weight of this peer <br /></td></tr>
+<tr class="separator:af0af697c20ca0b4a604c62f53fb6cea6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a792150911f4fc2b0d9b8599365f14f60"><td class="memItemLeft" align="right" valign="top"><a id="a792150911f4fc2b0d9b8599365f14f60"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classns3_1_1Peer.html#a792150911f4fc2b0d9b8599365f14f60">no_nexthop_check</a></td></tr>
+<tr class="memdesc:a792150911f4fc2b0d9b8599365f14f60"><td class="mdescLeft">&#160;</td><td class="mdescRight">disable nexthop attribute validation <br /></td></tr>
+<tr class="separator:a792150911f4fc2b0d9b8599365f14f60"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9af132a914b9f110df3d64e74f95db0"><td class="memItemLeft" align="right" valign="top"><a id="ad9af132a914b9f110df3d64e74f95db0"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classns3_1_1Peer.html#ad9af132a914b9f110df3d64e74f95db0">forced_default_nexthop</a></td></tr>
+<tr class="memdesc:ad9af132a914b9f110df3d64e74f95db0"><td class="mdescLeft">&#160;</td><td class="mdescRight">always use peering IP as nexthop. <br /></td></tr>
+<tr class="separator:ad9af132a914b9f110df3d64e74f95db0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae120685ebf8520b36182f6a799e1bb3f"><td class="memItemLeft" align="right" valign="top"><a id="ae120685ebf8520b36182f6a799e1bb3f"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classns3_1_1Peer.html#ae120685ebf8520b36182f6a799e1bb3f">ibgp_alter_nexthop</a></td></tr>
+<tr class="memdesc:ae120685ebf8520b36182f6a799e1bb3f"><td class="mdescLeft">&#160;</td><td class="mdescRight">alter IBGP nexthop attribute the same way as EBGP. <br /></td></tr>
+<tr class="separator:ae120685ebf8520b36182f6a799e1bb3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e3c46711d0e657bd831cadadc720592"><td class="memItemLeft" align="right" valign="top"><a id="a7e3c46711d0e657bd831cadadc720592"></a>
+uint8_t&#160;</td><td class="memItemRight" valign="bottom"><b>ebgp_multihop</b></td></tr>
+<tr class="separator:a7e3c46711d0e657bd831cadadc720592"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="classns3_1_1Peer.html" title="Peer configuration class. ">Peer</a> configuration class. </p>
 <dl><dt><b>Examples: </b></dt><dd><a class="el" href="bgp-example_8cc-example.html#_a0">bgp-example.cc</a>.</dd>
 </dl>
 <p class="definition">Definition at line <a class="el" href="bgp_8h_source.html#l00034">34</a> of file <a class="el" href="bgp_8h_source.html">bgp.h</a>.</p>
-</div><hr/>The documentation for this class was generated from the following file:<ul>
+</div><hr/>The documentation for this class was generated from the following files:<ul>
 <li>model/<a class="el" href="bgp_8h_source.html">bgp.h</a></li>
+<li>model/<a class="el" href="bgp_8cc_source.html">bgp.cc</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->
